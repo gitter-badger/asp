@@ -1,8 +1,6 @@
 #ASIMP
 ####A Simple Package
 >The ASIMP Is A ToolTip For Better JS.
->
->Check `GitHUB` For Browser Support Version
 
 The ASIMP Is Pretty Easy, Just you need a simple
 walk through, to use it tools.
