@@ -1,5 +1,7 @@
 #ASIMP
 ####A Simple Package
+
+[![Join the chat at https://gitter.im/nodejs_asimp/Lobby](https://badges.gitter.im/nodejs_asimp/Lobby.svg)](https://gitter.im/nodejs_asimp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 >The ASIMP Is A ToolTip For Better JS.
 
 REQUIRES NODEJS
