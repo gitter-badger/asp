@@ -2,6 +2,10 @@
 ####A Simple Package
 >The ASIMP Is A ToolTip For Better JS.
 
+REQUIRES NODEJS
+
+[getIt](https://www.npmjs.com/package/asimp)
+
 The ASIMP Is Pretty Easy, Just you need a simple
 walk through, to use it tools.
 
