@@ -7,6 +7,8 @@
 The ASIMP Is Pretty Easy, Just you need a simple
 walk through, to use it tools.
 
+>>>>The browser support coming soon...
+
 ####isInBase
 The `isInBase` Is A Math Tool.
 
